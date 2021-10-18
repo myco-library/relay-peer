@@ -1,0 +1,23 @@
+{
+  "name": "relay-peer",
+  "version": "1.0.0",
+  "description": "Relay Peer and Long Term Storage",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myco-library/relay-peer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myco-library/relay-peer/issues"
+  },
+  "homepage": "https://github.com/myco-library/relay-peer#readme",
+  "dependencies": {
+    "gun": "^0.2020.1235"
+  }
+}

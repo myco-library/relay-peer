@@ -14,5 +14,9 @@
     });
 	console.log('Relay peer started on port ' + config.port + ' with /gun');
 
+	// gun.get('Author').map().on((data) => {
+	// 	console.info(data);
+	// });
+
 	module.exports = gun;
 }());
